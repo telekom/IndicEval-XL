@@ -1,6 +1,6 @@
 # [Dataset] IndicEval-XL : Bridging Linguistic Diversity in Code Generation Across Indic Languages
  
-This repository contains the IndicEval-XL, a comprehensive benchmark for code generation that incorporates 5 major Indic languages, collectively spoken by approximately 14% of the world's population. so as to make AI-powered
+This repository contains the IndicEval-XL, a comprehensive benchmark for code generation that incorporates 5 major Indic languages and 1 ancient Indian langauge (Sanskrit), collectively spoken by approximately 14% of the world's population. so as to make AI-powered
 development tools more inclusive and accessible to developers
 of various linguistic backgrounds. Results and findings can be found in the paper "IndicEval-XL : Bridging Linguistic Diversity in Code Generation Across Indic Languages" (link).
 
